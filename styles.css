@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+.list{
+	border:2px solid black;
+	border-radius:4px;
+}
+.list li{
+	list-style-type:none;
+}
+.list li a{
+	margin:0px;
+	padding:0px;
+	text-decoration-line: none;
+	color:black;
+}
+.heading{
+	text-align: center;
+}
+.player_one{
+	bacground-color:rgb(255, 255, 255);
+	padding:3px;
+	border-radius:4px;
+}
+.player_two{
+	bacground-color:rgb(255, 255, 255);
+	padding:3px;
+	border-radius:4px;
+}
