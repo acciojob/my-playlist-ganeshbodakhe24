@@ -9,6 +9,7 @@ h2{
 	text-align:center;
 }
 .list{
+	background-color:white;
 	border:2px solid black;
 	border-radius:4px;
 }
@@ -25,12 +26,12 @@ h2{
 	text-align: center;
 }
 .player_one{
-	bacground-color:rgb(255, 255, 255);
+	background-color:white;
 	padding:3px;
 	border-radius:4px;
 }
 .player_two{
-	bacground-color:rgb(255, 255, 255);
+	background-color:rgb(255, 255, 255);
 	padding:3px;
 	border-radius:4px;
 }
